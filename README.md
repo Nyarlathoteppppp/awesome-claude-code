@@ -89,6 +89,7 @@ The Model Context Protocol (MCP) allows Claude Code to interact with external to
 - [GitMCP](https://github.com/idosal/git-mcp) - Free, open-source remote MCP server for any GitHub project to eliminate code hallucinations. ![GitHub Repo stars](https://img.shields.io/github/stars/idosal/git-mcp)
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server providing terminal control, file system search, and diff file editing capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP)
 - [Pal MCP Server](https://github.com/BeehiveInnovations/pal-mcp-server) - Bridges Claude Code with Gemini, OpenAI, OpenRouter, Azure, Grok, Ollama, and more as one unified tool. ![GitHub Repo stars](https://img.shields.io/github/stars/BeehiveInnovations/pal-mcp-server)
+- [pi-durabletask-mcp](https://github.com/Nyarlathoteppppp/pi-durabletask-mcp) - Delegates coding tasks to Pi in separate sessions with steering, follow-up, and optional SQLite recovery after bridge restarts ![GitHub Repo stars](https://img.shields.io/github/stars/Nyarlathoteppppp/pi-durabletask-mcp)
 
 ### Browser and Web
 
